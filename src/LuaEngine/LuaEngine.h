@@ -25,6 +25,7 @@
 #include "TicketMgr.h"
 #include <mutex>
 #include <memory>
+#include "LootMgr.h"
 
 extern "C"
 {
